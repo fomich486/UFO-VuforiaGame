@@ -1,12 +1,12 @@
-# - Как запустить игру?
-- На телефоне с системой андроид установить UFO.apk
-# - Подготовка к игре
-- Запустить приложение на смартфоне.
-- Напечатать кртинку и положить на стол, либо открыть на другом смартфоне.
-- Ссылки на картинку : https://github.com/fomich486/UFO-VuforiaGame/blob/master/Target.jpg
-- Для начала игры камера должна быть наведена на картинку(таргет).
-# - Как играть?
-- Управляй НЛО.
-- Собирай коров.
-- Опасайся бомб.
-- Набери 10 очков для победы.
+# - How to start the game?
+- On the phone with the Android system, install UFO.apk
+# - Preparing for the game
+- Launch the app on your smartphone.
+- Print a picture and put it on the table, or open it on another smartphone.
+- Image links: https://github.com/fomich486/UFO-VuforiaGame/blob/master/Target.jpg
+- To start the game, camera should be pointed at the picture (target).
+# - How to play?
+- Drive UFO.
+- Collect cows.
+- Watch out for bombs.
+- Score 10 points to win.
